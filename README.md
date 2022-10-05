@@ -1,5 +1,6 @@
 # website-for-pharmaceutical-company
-[pharmacy.zip](https://github.com/Gagana468/website-for-pharmaceutical-company/files/9717766/pharmacy.zip)
+[pharmacy.zip](https://github.com/Gagana468/website-for-pharmaceutical-company/files/9717766/pharmacy.zip)- zip file
+
 Screenshots
 ![image](https://user-images.githubusercontent.com/115104239/194125256-ccf6d164-21b6-458e-a467-fc0a734de5e0.png)
 ![image](https://user-images.githubusercontent.com/115104239/194125361-366286c0-7ca1-4e25-928b-9a2aea0e7cde.png)
